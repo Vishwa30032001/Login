@@ -1,0 +1,164 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+      
+    background: 
+    linear-gradient(to right,#dfddde, #1e1f20), /* Left color */
+    linear-gradient(to right, #1e1f20, #dfddde); /* Right color */
+  background-position: left, right; /* Position of each background */
+  background-size: 50% 100%; /* Width of each color */
+  background-repeat: no-repeat; /* Prevent repetition */
+  }
+
+.form
+{
+background-image: linear-gradient(to bottom, #6fc8fc, #d3aed3);
+display: block;
+padding: 3rem;
+max-width: 250px;
+border-radius: 1rem;
+box-shadow: 5 20px 25px 5px #54b9f3(315, 93%, 49%, 0.1), 5 4px 6px 5px  #f737d7(248, 3, 187, 0.1);
+height: 70vh;
+
+}
+.formtitle
+{
+    color: white; /* Set text color */
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;       
+    font-size: 2rem;
+        line-height: 1.75rem;
+        font-weight: 600;
+        text-align: center;
+        color: gold;
+        
+}
+
+.input-container {
+    position: relative;
+  }
+  .input-container input, .form button {
+    outline: none;
+    border: 7px solid #e5e7eb;
+    margin: 15px 0;
+    padding-right: 4rem;
+    padding-inline-start: 8px;
+
+  }
+.button1
+{text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.text1{text-align: center;}
+.submit
+{
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    background: blueviolet;
+    min-width: 100px;
+    border: 0;
+    border-radius: 9px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    padding: 15px 10px;
+    color:gold;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    overflow: hidden;
+    cursor: pointer;
+    text-align: center;
+    height: 40px; 
+    line-height: 40px;
+    
+}
+
+.signup-link
+{
+color:black;
+font-size: 17px;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
